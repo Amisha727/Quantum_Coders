@@ -1,6 +1,7 @@
 🧙‍♂️ Hogwarts Chronicles - A Magical Storytelling Experience
 ✨ Live Demo
-🔗 Hogwarts Chronicles
+🔗 https://graceful-rugelach-d95635.netlify.app/
+
 
 📖 About the Project
 Welcome to Hogwarts Chronicles, a beautifully crafted storytelling website that immerses users into the magical world of Hogwarts. This interactive platform features animated storytelling with an engaging UI inspired by the Harry Potter universe.
